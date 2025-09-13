@@ -1,6 +1,6 @@
 const baseUrl = "https://api.trello.com/1";
-const key = "46254fb44fbdd9d7badc1c98aa60c01f";
-const token = "ATTA69c6c2c55d33527ef07fba9a53444615528d5b3748c5bd21764a27727ec90d44C8E09D10";
+const key = "";
+const token = "";
 
 describe("Trello API E2E", () => {
   let boardId;
